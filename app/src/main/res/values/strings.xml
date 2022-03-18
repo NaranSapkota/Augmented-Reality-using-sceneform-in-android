@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Augmented Reality</string>
+    <string name="idle">IDLE</string>
+    <string name="kick">KICK</string>
+    <string name="boxing">BOXING</string>
+</resources>
